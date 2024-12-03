@@ -1,0 +1,6 @@
+@dolar_api_conversion_HostAddress = http://localhost:5174
+
+GET {{dolar_api_conversion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
